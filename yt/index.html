@@ -1,0 +1,32 @@
+<html>
+
+	<head>
+	
+	</head>
+
+	<body>
+		<div class="embed-responsive embed-responsive-16by9">
+		  <div id="player"></div>
+		</div>
+	</body>
+	<script src="https://www.youtube.com/iframe_api"></script>
+	<script>
+	  var player;
+	  function onYouTubeIframeAPIReady() {
+		// 一般使用 影片的id寫在js裡
+		player = new YT.Player('player', {
+		  height: '390', // 高度預設值為390，css會調成responsive
+		  width: '640', // 寬度預設值為640，css會調成responsive
+		  videoId: 'M7lc1UVf-VE',
+		  events: {
+			'onReady': onPlayerReady
+		  }
+		});
+	  }
+	  function onPlayerReady(e) {
+		// 為確保瀏覽器上可以自動播放，要把影片調成靜音
+		e.target.mute().playVideo();
+	  }
+	</script>
+	
+</html>

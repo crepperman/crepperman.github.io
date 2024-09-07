@@ -1,7 +1,13 @@
 <html>
 
 	<head>
-	
+		<style>
+			iframe {
+				/*aspect-ratio: 16 / 9;
+				height: auto;
+				width: 100%;*/
+			}
+		</style>
 	</head>
 
 	<body>
@@ -24,7 +30,7 @@
 		// 一般使用 影片的id寫在js裡
 		player = new YT.Player('player', {
 		  height: '390', // 高度預設值為390，css會調成responsive
-		  width: '640', // 寬度預設值為640，css會調成responsive
+		  width: '1013', // 寬度預設值為640，css會調成responsive
 		  videoId: 'ZzWBpGwKoaI',
 		  events: {
 			'onReady': onPlayerReady
@@ -33,7 +39,7 @@
 		
 		player2 = new YT.Player('player2', {
 		  height: '390', // 高度預設值為390，css會調成responsive
-		  width: '640', // 寬度預設值為640，css會調成responsive
+		  width: '1013', // 寬度預設值為640，css會調成responsive
 		  videoId: 'ZzWBpGwKoaI',
 		  events: {
 			'onReady': onPlayerReady
@@ -42,7 +48,7 @@
 		
 		player3 = new YT.Player('player3', {
 		  height: '390', // 高度預設值為390，css會調成responsive
-		  width: '640', // 寬度預設值為640，css會調成responsive
+		  width: '1013', // 寬度預設值為640，css會調成responsive
 		  videoId: 'ZzWBpGwKoaI',
 		  events: {
 			'onReady': onPlayerReady
@@ -50,7 +56,7 @@
 		});
 		player4 = new YT.Player('player4', {
 		  height: '390', // 高度預設值為390，css會調成responsive
-		  width: '640', // 寬度預設值為640，css會調成responsive
+		  width: '1013', // 寬度預設值為640，css會調成responsive
 		  videoId: 'ZzWBpGwKoaI',
 		  events: {
 			'onReady': onPlayerReady

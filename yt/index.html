@@ -11,6 +11,7 @@
 		</div>
 		<div class="embed-responsive embed-responsive-16by9">
 		  <div id="player3"></div>
+		  <div id="player4"></div>
 		</div>
 	</body>
 	<script src="https://www.youtube.com/iframe_api"></script>
@@ -18,6 +19,7 @@
 	  var player;
 	  var player2;
 	  var player3;
+	  var player4;
 	  function onYouTubeIframeAPIReady() {
 		// 一般使用 影片的id寫在js裡
 		player = new YT.Player('player', {
@@ -39,6 +41,14 @@
 		});
 		
 		player3 = new YT.Player('player3', {
+		  height: '390', // 高度預設值為390，css會調成responsive
+		  width: '640', // 寬度預設值為640，css會調成responsive
+		  videoId: 'M7lc1UVf-VE',
+		  events: {
+			'onReady': onPlayerReady
+		  }
+		});
+		player4 = new YT.Player('player4', {
 		  height: '390', // 高度預設值為390，css會調成responsive
 		  width: '640', // 寬度預設值為640，css會調成responsive
 		  videoId: 'M7lc1UVf-VE',

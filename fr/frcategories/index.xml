@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frcategories on PaperModL2</title>
+    <link>https://crepperman.github.io/crepperman.github.io/fr/frcategories/</link>
+    <description>Recent content in Frcategories on PaperModL2</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crepperman.github.io/crepperman.github.io/fr/frcategories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRcategories/Syntax</title>
+      <link>https://crepperman.github.io/crepperman.github.io/fr/frcategories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://crepperman.github.io/crepperman.github.io/fr/frcategories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FRcategories/Themes</title>
+      <link>https://crepperman.github.io/crepperman.github.io/fr/frcategories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://crepperman.github.io/crepperman.github.io/fr/frcategories/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

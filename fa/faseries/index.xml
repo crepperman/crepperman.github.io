@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faseries on PaperMod RTL</title>
+    <link>https://crepperman.github.io/crepperman.github.io/fa/faseries/</link>
+    <description>Recent content in Faseries on PaperMod RTL</description>
+    <generator>Hugo</generator>
+    <language>fa</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crepperman.github.io/crepperman.github.io/fa/faseries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAseries/Themes Guide</title>
+      <link>https://crepperman.github.io/crepperman.github.io/fa/faseries/themes-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://crepperman.github.io/crepperman.github.io/fa/faseries/themes-guide/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on crepperman.github.io</title>
+    <link>http://localhost:1313/tags/papermod/</link>
+    <description>Recent content in PaperMod on crepperman.github.io</description>
+    <image>
+      <title>crepperman.github.io</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>http://localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>Features / Mods</title>
+      <link>http://localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+  </channel>
+</rss>

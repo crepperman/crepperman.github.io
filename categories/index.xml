@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on crepperman.github.io</title>
-    <link>https://crepperman.github.io/categories/</link>
-    <description>Recent content in Categories on crepperman.github.io</description>
-    <image>
-      <title>crepperman.github.io</title>
-      <url>https://crepperman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://crepperman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en-us</language>
-    <atom:link href="https://crepperman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on PaperMod</title>
+    <link>https://crepperman.github.io/crepperman.github.io/categories/</link>
+    <description>Recent content in Categories on PaperMod</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://crepperman.github.io/crepperman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syntax</title>
+      <link>https://crepperman.github.io/crepperman.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://crepperman.github.io/crepperman.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://crepperman.github.io/crepperman.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://crepperman.github.io/crepperman.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

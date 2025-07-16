@@ -1,90 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on PaperMod</title>
-    <link>https://crepperman.github.io/crepperman.github.io/tags/</link>
-    <description>Recent content in Tags on PaperMod</description>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://crepperman.github.io/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 21:58:34 +0800</lastBuildDate>
-    <atom:link href="https://crepperman.github.io/crepperman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/first/</link>
-      <pubDate>Tue, 15 Jul 2025 21:58:34 +0800</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/first/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gist</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/gist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syntax</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>https://crepperman.github.io/crepperman.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://crepperman.github.io/crepperman.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
+    <language>en-us</language>
+    <atom:link href="https://crepperman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

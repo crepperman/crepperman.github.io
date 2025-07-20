@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fatags on PaperMod RTL</title>
+    <link>/fa/fatags/</link>
+    <description>Recent content in Fatags on PaperMod RTL</description>
+    <image>
+      <title>PaperMod RTL</title>
+      <url>/images/papermod-cover.png</url>
+      <link>/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>fa</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/fa/fatags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAtags/Css</title>
+      <link>/fa/fatags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/fa/fatags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Html</title>
+      <link>/fa/fatags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/fa/fatags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Markdown</title>
+      <link>/fa/fatags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/fa/fatags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FAtags/Themes</title>
+      <link>/fa/fatags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/fa/fatags/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,87 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Exuslab</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on </description>
-    <image>
-      <title></title>
-      <url>/images/papermod-cover.png</url>
-      <link>/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.148.1</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <description>Exuslab (Tags)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Css</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gist</title>
-      <link>/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/gist/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syntax</title>
-      <link>/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/emoji/</guid>
-      <description></description>
-    </item>
+    
+    
   </channel>
 </rss>

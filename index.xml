@@ -67,6 +67,11 @@ Symmetric Cryptography :&lt;br&gt;
 用tpm2_getcap commands指令查&lt;br/&gt;
 9670系列會沒有TPM2_CC_EncryptDecrypt, TPM2_CC_EncryptDecrypt2&lt;br&gt;
 會不支援AES對稱加密&lt;br&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.infineon.com/products/security-smart-card-solutions/optiga-embedded-security-solutions/optiga-tpm&#34;&gt;Infineon TPM2晶片列表&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://community.infineon.com/t5/Knowledge-Base-Articles/Enabling-amp-testing-Infineon-OPTIGA-TPM-on-Raspberry-Pi-under-Linux/ta-p/623548&#34;&gt;開發工具連結&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://github.com/Infineon/eltt2&#34;&gt;開發工具連結&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
 </description>
     </item>
     

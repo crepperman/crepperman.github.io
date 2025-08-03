@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Exuslab</title>
+    <link>/posts/</link>
+    <description>Exuslab (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Aug 2025 15:51:49 +0800</lastBuildDate>
+    
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infineon Tpm2 Note</title>
+      <link>/posts/tpm2-note/</link>
+      <pubDate>Sun, 03 Aug 2025 15:51:49 +0800</pubDate>
+      
+      <guid>/posts/tpm2-note/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;最近使用開發infineon家的TPM2.0筆記
+&lt;br&gt;
+&lt;br&gt;
+SLB9670/SLM9670給Raspberry用的TPM2.0模組加密演算法支援比較少&lt;br&gt;
+規格:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CPU: 16bit&lt;/li&gt;
+&lt;li&gt;NV memory 6962 Bytes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+加密演算法僅支援:&lt;br&gt;
+Asymmetric Cryptography :&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;ECC / ECC BN-256 / ECC NIST P-256 / ECC256 / ECDH&lt;/li&gt;
+&lt;li&gt;RSA1024 / RSA2048&lt;/li&gt;
+&lt;/ol&gt;
+Symmetric Cryptography :&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;HMAC / SHA-1 / SHA-256&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+OPTIGA TPM SLB9672FW16/SLB9673FW26給Raspberry用的TPM2.0模組加密演算法支援比較多且支援AES對稱加密&lt;br&gt;
+有兩張PI使用開發版 &lt;a href=&#34;https://www.mouser.tw/c/embedded-solutions/engineering-tools/analog-digital-ic-development-tools/security-authentication-development-tools/?m=Infineon&amp;amp;instock=y&#34;&gt;參考連結&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;SLB 9673 RPI evaluation board &lt;/li&gt;
+&lt;li&gt;SLB 9672 RPI evaluation board&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;規格:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CPU: 32bit&lt;/li&gt;
+&lt;li&gt;NV memory: 51 kByte&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+加密演算法僅支援:&lt;br&gt;
+Asymmetric Cryptography :&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;ECC NIST P256, ECC BN256, ECC NIST P384&lt;/li&gt;
+&lt;li&gt;RSA1024, RSA2048, RSA3072, RSA4096, &lt;/li&gt;
+&lt;/ol&gt;
+Symmetric Cryptography :&lt;br&gt;
+&lt;ol&gt;
+&lt;li&gt;HMAC, SHA-1, SHA2-256, SHA2-384, AES-128, AES-192, AES-256
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+&lt;p&gt;開發會遇到問題&lt;br/&gt;
+用tpm2_getcap commands指令查&lt;br/&gt;
+9670系列會沒有TPM2_CC_EncryptDecrypt, TPM2_CC_EncryptDecrypt2&lt;br&gt;
+會不支援AES對稱加密&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
